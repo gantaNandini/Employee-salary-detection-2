@@ -1,0 +1,2 @@
+streamlit run app.py
+  to run total to get streamlit
